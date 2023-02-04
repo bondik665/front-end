@@ -1,0 +1,33 @@
+.portfolio {
+    background-color: #F6F6F6;
+    padding-bottom: 96px;
+    
+    &__title{
+        padding-top: 112px;
+        margin-bottom: 47px;
+      /*   font-size: 34px;
+        line-height: 42px;
+        text-align: center; */
+    }
+    &__photo {
+        width: 100%;
+        margin-bottom: 44px;
+    }
+    &__link {
+        display: block;
+        padding: 112px;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        text-decoration: underline;
+        font-weight: 500;
+        color: #070707;
+        margin-bottom: 96px;
+
+    }
+}
+
+
+
+
+
